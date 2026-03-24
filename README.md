@@ -31,3 +31,4 @@ Python (basic concepts like loops, conditions, list)
 This project helps to understand basic Python concepts and how a simple banking system works
 
 video explanation:
+https://drive.google.com/file/d/1rdGpQD_MS0Akhx_cSy8646xCP2C5Vmrw/view?usp=sharing
